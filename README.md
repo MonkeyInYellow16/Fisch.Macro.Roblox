@@ -38,6 +38,7 @@ Leave most settings default,
 - Make sure your character in Roblox does not have a white head or hat
 - There are some bugs, this macro does work but may take testing, and tweaks to settings
 - Using BloxStrap to launch Roblox does mess with the Macro
+- This Macro does have some trouble catching eratic high level fish, to counteract you can enchant your rod with Controlled
   
 ---
 IMPORTANT
