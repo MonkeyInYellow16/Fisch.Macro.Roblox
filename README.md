@@ -18,8 +18,11 @@ Open the file **`Fisch Macro V12 (feat. IRUS).ahk`** once installed, after launc
 For optimal performance, make sure these Macro settings are enabled:  
 - ✅ Auto Lower Graphics  
 - ✅ Auto Zoom In  
-- ✅ Auto Look Down  
-
+- ✅ Auto Look Down
+Reccomended Settings:
+- restart delay and hold rod  cast duration : 128
+- -wait for bobber to land : 150
+- -bait delay : 250
 ---
 
 ## Notes  
@@ -27,6 +30,7 @@ For optimal performance, make sure these Macro settings are enabled:
 - After loading saved settings, always save again to ensure they apply properly.
 - Make sure your character in Roblox does not have a white head or hat
 - There are some bugs, this macro does work but may take testing, and tweaks to settings
+  
 ---
 IMPORTANT
 - I am not the creator of this Macro, so new versions may or may not be updated to this Repo.
