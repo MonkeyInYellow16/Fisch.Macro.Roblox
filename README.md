@@ -26,8 +26,8 @@ Leave most settings default,
 - Bait Delay : 700
 - Shake Mode --> Click
 - Shake Failsafe : 10
-- Click Scan Delay : 12
-- Navigation Spam Delay : 12
+- Click Scan Delay : 8-12 (10 most reliable)
+- Navigation Spam Delay : 8-12 (10 most reliable)
   
 ---
 
