@@ -32,10 +32,11 @@ Leave most settings default,
 ---
 
 ## Notes  
-- You can save and load your macro settings.  
-- After loading saved settings, always save again to ensure they apply properly.
+- You can save and load your macro settings
+- After loading saved settings, always save again to ensure they apply properly
 - Make sure your character in Roblox does not have a white head or hat
 - There are some bugs, this macro does work but may take testing, and tweaks to settings
+- Using BloxStrap to launch Roblox does mess with the Macro
   
 ---
 IMPORTANT
