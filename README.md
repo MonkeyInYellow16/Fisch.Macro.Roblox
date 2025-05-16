@@ -19,6 +19,7 @@ For optimal performance, make sure these Macro settings are enabled:
 - ✅ Auto Lower Graphics  
 - ✅ Auto Zoom In  
 - ✅ Auto Look Down
+- Shake Settings --> Click
 
 Reccomended Settings:
 - restart delay and hold rod  cast duration : 128
