@@ -20,6 +20,7 @@ Leave most settings default,
 - ✅ Auto Lower Graphics  
 - ✅ Auto Zoom In  
 - ✅ Auto Look Down
+### Recommended Values
 - Restart Delay : 1500
 - Hold Rod Cast Duration : 700
 - Wait for bobber to land : 1200
