@@ -21,10 +21,6 @@ For optimal performance, make sure these Macro settings are enabled:
 - ✅ Auto Look Down
 - Shake Settings --> Click
 
-Reccomended Settings:
-- restart delay and hold rod  cast duration : 128
-- wait for bobber to land : 150
-- bait delay : 250
 ---
 
 ## Notes  
