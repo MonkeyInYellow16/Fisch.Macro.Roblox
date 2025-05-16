@@ -12,7 +12,7 @@ Download and install [AutoHotkey_2.0.19_setup.exe](https://www.autohotkey.com/)
 
 ### Step 2: Install Fisch Macro  
 Open the file **`Fisch Macro V12 (feat. IRUS).ahk`** once installed, after launching Roblox.  
-> Start the macro and select the correct settings to begin.
+> Start the macro, then move onto configuration.
 
 ### Step 3: Configure Settings  
 For optimal performance, make sure these Macro settings are enabled:  
