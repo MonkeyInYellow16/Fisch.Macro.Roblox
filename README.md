@@ -16,7 +16,7 @@ Open the file **`Fisch Macro V12 (feat. IRUS).ahk`** once installed, after launc
 
 ### Step 3: Configure Settings  
 Leave most settings default
-For optimal performance, make sure these Macro settings are enabled:  
+,for optimal performance, make sure these Macro settings are enabled:  
 - ✅ Auto Lower Graphics  
 - ✅ Auto Zoom In  
 - ✅ Auto Look Down
