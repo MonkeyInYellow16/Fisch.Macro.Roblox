@@ -28,3 +28,5 @@ For optimal performance, make sure these Macro settings are enabled:
 - Make sure your character in Roblox does not have a white head or hat
 - There are some bugs, this macro does work but may take testing, and tweaks to settings
 ---
+IMPORTANT
+-I am not the creator of this Macro, so new versions may or may not be updated to this Repo.
